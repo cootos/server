@@ -1,0 +1,14 @@
+[server]
+uri = "https://raw.githubusercontent.com/cootos/server/master/conf/server.dat"
+md5 = ""
+sha256 = ""
+
+[client]
+uri = "https://raw.githubusercontent.com/cootos/client/master/conf/client.dat"
+md5 = ""
+sha256 = ""
+
+[geoip]
+uri = "https://geolite.maxmind.com/download/geoip/database/GeoLite2-Country.tar.gz"
+md5 = "https://geolite.maxmind.com/download/geoip/database/GeoLite2-Country.tar.gz.md5"
+sha256= ""
