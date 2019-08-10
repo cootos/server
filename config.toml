@@ -3,7 +3,7 @@ uri = "https://raw.githubusercontent.com/cootos/server/master/ANfjkhFdNyPECjRkMV
 md5 = "269c550ea7d60ca9b38db7a9d6fd3567"
 sha256 = "a58639b51f34d382d6442173dca1e35ecc5c882980a6f510cc4589299b7477c4"
 
-[client]
+[rules]
 uri = "https://raw.githubusercontent.com/cootos/client/master/conf/client.dat"
 md5 = ""
 sha256 = ""
