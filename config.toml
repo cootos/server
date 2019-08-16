@@ -1,12 +1,12 @@
 [Server]
-  Uri = "https://raw.githubusercontent.com/cootos/server/master/avCxEzSeufXGpjgzgezVuxJisWKNpqSv"
-  Md5 = "922b91398f7798ec4518345e9c0a35d3"
-  Sha256 = "8e09114b9c7ca46a29dc592e2be8ddabc0e4d8f58a55abb790818c832e1cc7dc"
+  Uri = "https://raw.githubusercontent.com/cootos/server/master/PwZYx2K6D6V5nLGxrYSYBTNwW85K83Wx"
+  Md5 = "137320716ee74ac020746035d5f86cda"
+  Sha256 = "7e2edda7bc9465bc3e9d3cbf14135a4a511e7e0bf73f3c8e28979be684b2ac89"
 
 [Rules]
-  Uri = "https://raw.githubusercontent.com/cootos/server/master/TnQGJDPautHXeSccDmnpjNUyPRrKqPSh"
-  Md5 = "e577ca896bb3a91a2fcc9fc07707a008"
-  Sha256 = "040ebe1086ccceaec6d9e6ccb07615f177dbd2c6c464c7230b5fd87a859bfff6"
+  Uri = "https://raw.githubusercontent.com/cootos/server/master/Vs3bH5Va6XBUtz9uRpWr6kLnLYc8wayh"
+  Md5 = "053e3a7eef25ed30c66eb7497e7b0979"
+  Sha256 = "fc0e2121dc6cc2507964f8ee91f0838060daed07e2965d3bce5aca26c4f9af21"
 
 [Geoip]
   Uri = "https://geolite.maxmind.com/download/geoip/database/GeoLite2-Country.tar.gz"
