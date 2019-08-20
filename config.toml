@@ -1,12 +1,12 @@
 [Server]
-  Uri = "https://raw.githubusercontent.com/cootos/server/master/hftQ59U1uVaKi2VR6QrqYYYJc18Uba8B"
-  Md5 = "4705afdfe4595700d7480b8275baa4f2"
-  Sha256 = "5235538d8056d1f7fea061803f62bf3e3e47ed289aad5cc116229750a6e2abd5"
+  Uri = "https://raw.githubusercontent.com/cootos/server/master/QaNXA34T2L4pBmcimdMtDF1DvDTFWz2C"
+  Md5 = "2a61b0b94d210c90160d52e4556eeec6"
+  Sha256 = "fad90cc26a107bd081acacb4a9e7709e537a9366325a6254788fcc555c3bb24c"
 
 [Node]
-  Uri = "https://raw.githubusercontent.com/cootos/server/master/YZLdGMagmXxq5jLxWC72sncqc5VWKVsn"
-  Md5 = "0c59da5ce30339158ebca6d406b76487"
-  Sha256 = "a0a7614a2ec2a95d95cad7798f9c24e0d7f965306838d53d8691870f53622c0a"
+  Uri = "https://raw.githubusercontent.com/cootos/server/master/PZaX22JCgMuAFvsHZT5A18KQFBVMDkxg"
+  Md5 = "905be8eef44544be2d8cccc20e00d301"
+  Sha256 = "6fac3984792cd3f1b4a9a37a5c85edf50607133f8ec56ef8259f0a7601661f39"
 
 [Rules]
   Uri = "https://raw.githubusercontent.com/cootos/server/master/ygnwWVMnR7CqSbBShst7uUW7tzaMta1U"
