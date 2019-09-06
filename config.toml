@@ -9,9 +9,9 @@
   Sha256 = "6fac3984792cd3f1b4a9a37a5c85edf50607133f8ec56ef8259f0a7601661f39"
 
 [Rules]
-  Uri = "https://raw.githubusercontent.com/cootos/server/master/UyxR6t3r3PLFPL3bQVA3GMn7iq9Nnk1t"
-  Md5 = "64364ed46b5692c5e156bf6546a5cc01"
-  Sha256 = "985676082b75740d233db037c0846e51a6983ca7a348d5ecb235b917232d6576"
+  Uri = "https://raw.githubusercontent.com/cootos/server/master/rnYNJwjVCEVTVDR1GNV7jgQ3u9pB73Cv"
+  Md5 = "6d7d8203eb5403cf166c0ab82dc33c92"
+  Sha256 = "f54af23275188117b240f1b81523293f22c7e19123fba4420557003eea865fca"
 
 [Geoip]
   Uri = "https://geolite.maxmind.com/download/geoip/database/GeoLite2-Country.tar.gz"
