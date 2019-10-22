@@ -4,9 +4,9 @@
   Sha256 = "dd81fde5eea6c70d62188b4ec9b688228e72261bac8d5f9bf7cf4751292abf50"
 
 [Node]
-  Uri = "https://raw.githubusercontent.com/cootos/server/master/2EXGWVw5kJtCL9ChZ93G3HyxzDumZ6xB"
-  Md5 = "6c3d96b23a0012e44917451bf905dbc1"
-  Sha256 = "a91147c9c3b1271c737a689de2bc6fa42d731bcdd33abe2b935d0720b9969201"
+  Uri = "https://raw.githubusercontent.com/cootos/server/master/RMvCztHJZndaStzfcewsgRdK5djbX2GF"
+  Md5 = "6b59545c82bdd1bf8550cd63755ccbb5"
+  Sha256 = "a033e8eca671298df752d24ce3776640deb7dfc741a480147d13b49726643bed"
 
 [Rules]
   Uri = "https://raw.githubusercontent.com/cootos/server/master/X1Lz4LZSfQb7A3X2nyAPyxNNnr6k9Pv8"
