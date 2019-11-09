@@ -1,7 +1,7 @@
 [Server]
-  Uri = "https://raw.githubusercontent.com/cootos/server/master/fW3GwKrWN9h32zTRhLgVzMhXCFWUDgX7"
-  Md5 = "3cc9e066005c0178af670e31fbdf4ae1"
-  Sha256 = "dd81fde5eea6c70d62188b4ec9b688228e72261bac8d5f9bf7cf4751292abf50"
+  Uri = "https://raw.githubusercontent.com/cootos/server/master/HxpDxLvFGBCrTm6dPSZJBeAfUTscmAsP"
+  Md5 = "cc853283938076be6ee84e0fd72a365e"
+  Sha256 = "5130c3d6b6863344f577e370906a7d395721bd0bea20b5bef0fb90265f8cee84"
 
 [Node]
   Uri = "https://raw.githubusercontent.com/cootos/server/master/RMvCztHJZndaStzfcewsgRdK5djbX2GF"
