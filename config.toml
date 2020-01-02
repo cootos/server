@@ -14,5 +14,5 @@
   Sha256 = "9dae16f4b38cb05b7cf6170561766563bc389ae6ee4166067d2a8b1a1a8062cb"
 
 [Geoip]
-  Uri = "https://geolite.maxmind.com/download/geoip/database/GeoLite2-Country.tar.gz"
-  Md5 = "https://geolite.maxmind.com/download/geoip/database/GeoLite2-Country.tar.gz.md5"
+  Uri = "https://raw.githubusercontent.com/cootos/server/master/GeoLite2-Country.tar.gz"
+  Md5 = "https://raw.githubusercontent.com/cootos/server/master/GeoLite2-Country.tar.gz.md5"
