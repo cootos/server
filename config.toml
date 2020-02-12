@@ -1,17 +1,17 @@
 [Server]
-  Uri = "https://raw.githubusercontent.com/cootos/server/master/CVe47UbUZMUiJqHu4fYYsPGkcyGtW1N5"
-  Md5 = "d73e64f66fa4cfccc54093230801d934"
-  Sha256 = "e2c437dca9945572581f614c30e0d13463315e9aea7cb30bb602f5d7dc39b83b"
+  Uri = "https://raw.githubusercontent.com/cootos/server/master/KQtfqCeeuxdhwws7vgjHDBsHQYuRDYeb"
+  Md5 = "87705b23e627f89da6137c04b4d29dfd"
+  Sha256 = "2343d7ffaef668d0b96dc255b169c33fe0b80ba4e0d8a5380a263b64eb0f4734"
 
 [Node]
-  Uri = "https://raw.githubusercontent.com/cootos/server/master/yDJGidHXCQEpxNs9HL5WL7THdRDjN8Er"
-  Md5 = "973b0018dbb529713f8fd9b458e529b9"
-  Sha256 = "1cf914349057d7e98250c0cefa4b88f493a4582cce676506be30eee89240a0eb"
+  Uri = "https://raw.githubusercontent.com/cootos/server/master/VK6vBtGaGPcuxmMp8MiMjq3JdG15YAFP"
+  Md5 = "56115de04b453f1d9184bba304ce0825"
+  Sha256 = "afeeeb11c7e0da9e288e91c778dd96c4a183f4ef5ffbd0c7e360dcdaa6afbd00"
 
 [Rules]
-  Uri = "https://raw.githubusercontent.com/cootos/server/master/MpvzUcYyZZY3S8hZfnzy5Tcb619NDDm7"
-  Md5 = "61f7d392ddb72f22e46a5dfa2efcd351"
-  Sha256 = "b6c7e5273ce95efb187e3b9f1f739019f67dfaf44702ebcf836df084e630c469"
+  Uri = "https://raw.githubusercontent.com/cootos/server/master/2QNWV6nG1YwwTWhNa9tTthxz1gPrEbbq"
+  Md5 = "b3854d16c219a52f7bb250150ac7a203"
+  Sha256 = "e471771bf24c11818cfe9b346029d2aadc5a608b96d9e8de4580e579e9edef15"
 
 [Geoip]
   Uri = "https://raw.githubusercontent.com/cootos/server/master/GeoLite2-Country.tar.gz"
